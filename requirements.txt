@@ -1,0 +1,3 @@
+- Python 3.8+
+- PyTorch
+- HuggingFace's Tokenizer (tiktoken)
